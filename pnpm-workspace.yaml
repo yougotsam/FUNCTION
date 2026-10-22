@@ -14,7 +14,7 @@ catalogs:
     type-fest: ^4.37.0
     uuid: ^13.0.0
   mcp:
-    "@modelcontextprotocol/sdk": ^1.12.0
+    "@modelcontextprotocol/sdk": ^1.32.0
     "@wrtnlabs/calculator-mcp": ^0.2.1
   typescript:
     ts-node: ^10.9.2
@@ -26,7 +26,7 @@ catalogs:
     "@typia/utils": ^12.0.1
     typia: ^12.0.1
   vite:
-    vitest: ^3.0.9
+    vitest: ^5.0.5
 onlyBuiltDependencies:
   - core-js
   - esbuild
